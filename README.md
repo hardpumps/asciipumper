@@ -1,4 +1,7 @@
 # asciipumper
+
+![preview.png](screens/preview.png?raw=true "preview.png")
+
 An MS Paint style program to create IRC art.
 
 ##### Requirements
